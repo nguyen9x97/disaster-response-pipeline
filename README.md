@@ -5,6 +5,7 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Introductions](#introductions)
+5. [Licensing, Authors, Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
