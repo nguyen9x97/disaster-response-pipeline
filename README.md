@@ -15,10 +15,11 @@ The code is tested using Python version 3.8.6. All necessary libraries are in re
 
 ## Project Motivation <a name="motivation"></a>
 
-For this project, I was interested in Disaster Response Pipeline data to better understand:
+In this project, I applied what I learned in data engineering skills to analyze disaster data
+from [Append](https://appen.com/) to build a model for an API that classifiers disaster messages. I built a machine learning pipeline to categorize disaster events given real messages so that these messages can be sent to an appropriate disaster relief agency. This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app also display visualization of the data. Here are the steps to complete this project:
 1. ETL step: Extract data from csv files, clean data, load data to SQLite database.
 2. ML Pipeline: Tokenization, lemmatization, removing stop words. Build Machine Learning pipeline and find the best paramaters using Grid Search algorithm.
-3. Flask app: Display results and visualizations
+3. Flask app: Display results and visualizations.
 
 ## File Descriptions <a name="files"></a>
 
